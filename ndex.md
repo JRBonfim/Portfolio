@@ -1,11 +1,10 @@
-# Bem-vindo ao Meu Portfólio
+# Bem-vindo ao Meu Portfólio  
 
-Olá, sou [Seu Nome], um programador apaixonado por Inteligência Artificial e automação. Estou sempre em busca de aprender novas tecnologias e aplicar soluções inovadoras.
+Aqui você pode conhecer mais sobre meus projetos e experiências em programação e inteligência artificial.  
 
-## Projetos
+## Projetos  
+- [Projeto 1: Analisador de Dados de Criptomoedas](https://github.com/seunome/projeto1)  
+- [Projeto 2: Bot de Negociação](https://github.com/seunome/projeto2)  
 
-Aqui você pode conferir alguns dos meus projetos em programação e IA.
-
-## Contato
-
-Você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/seunome) ou me enviar um e-mail para seunome@email.com.
+## Contato  
+Você pode entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/seunome) ou me enviar um e-mail para seunome@email.com.  
