@@ -1,4 +1,18 @@
 ![Banner](banner.jpg)
+## Meus Projetos
+
+### Projeto 1: Inteligência Artificial para Análise de Mercado
+Descrição do projeto: 
+- Criação de um modelo de IA para identificar padrões de mercado e fazer decisões automáticas em negociações.
+- Tecnologias utilizadas: Python, Pandas, Scikit-learn, Matplotlib.
+- [Link para o GitHub](#)
+
+### Projeto 2: Analisador de Dados Financeiros
+Descrição do projeto: 
+- Analisador de dados financeiros para prever tendências usando modelos de Machine Learning.
+- Tecnologias utilizadas: Python, Jupyter, TensorFlow.
+- [Link para o GitHub](#)
+
 
 &nbsp;  
 &nbsp;  
