@@ -1,7 +1,18 @@
 <img src="perfil.jpg" alt="Minha Foto de Perfil" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; display: block; margin: auto;">
 # Meu Portfólio 🚀  
 
-Seja bem-vindo ao meu portfólio!  
+Seja bem-vindo ao meu portfólio!
+## 👋 Sobre Mim  
+
+Olá! Meu nome é [Seu Nome], sou apaixonado por tecnologia e estou iniciando minha jornada na programação. Atualmente, estou estudando **Inteligência Artificial e Automação**, com o objetivo de criar soluções inovadoras no mercado de criptomoedas.  
+
+💡 Gosto de aprender novas tecnologias e aplicar meus conhecimentos em projetos práticos. Meu foco principal está em **machine learning, análise de dados e automação de processos financeiros**.  
+
+🚀 Meu objetivo é me tornar um especialista em **IA e Data Science**, construindo ferramentas que facilitem a tomada de decisão no mercado financeiro.  
+
+📚 No momento, estou desenvolvendo projetos que envolvem **análise de gráficos, indicadores técnicos e modelos preditivos** para otimizar estratégias de investimento.  
+
+
 
 ## Meus Projetos
 
