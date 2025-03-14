@@ -1,3 +1,5 @@
+![Banner](banner.jpg)
+
 <img src="perfil.jpg" alt="Minha Foto de Perfil" style="width: 150px; height: 150px; object-fit: cover; border-radius: 10px; display: block; margin: auto;">
 # Meu Portfólio 🚀  
 
