@@ -1,4 +1,5 @@
-<img src="perfil.jpg" alt="Minha Foto de Perfil" width="150" height="150" style="display: block; margin: auto;">
+<img src="perfil.jpg" alt="Minha Foto de Perfil" width="150" height="150" style="object-fit: cover; border: 2px solid #ddd; border-radius: 10px; display: block; margin: auto;">
+
 
 
 
