@@ -4,7 +4,9 @@
 
 Seja bem-vindo ao meu portfólio!
 
-## 👋 Sobre Mim
+[Sobre Mim](#sobre-mim) | [Meus Projetos](#meus-projetos) | [Contato](#contato) | [Depoimentos](#depoimentos)
+
+## 👋 Sobre Mim {#sobre-mim}
 
 Olá! Meu nome é **Jonathan Bonfim**, sou apaixonado por tecnologia e estou iniciando minha jornada na programação. Atualmente, estou estudando **Inteligência Artificial e Automação**, com o objetivo de criar soluções inovadoras no mercado de criptomoedas.
 
@@ -16,7 +18,7 @@ Olá! Meu nome é **Jonathan Bonfim**, sou apaixonado por tecnologia e estou ini
 
 ---
 
-## Meus Projetos
+## Meus Projetos {#meus-projetos}
 
 Aqui estão alguns dos projetos em que estou trabalhando:
 
@@ -39,7 +41,17 @@ Descrição do projeto:
 
 ---
 
-## 📬 Contato
+## 💬 Depoimentos {#depoimentos}
+
+_"O Jonathan possui uma visão incrível para resolver problemas complexos usando IA. Seus projetos têm contribuído muito para minha compreensão sobre análise de dados."_  
+— **Carlos Silva**, Mentor de IA
+
+_"Eu trabalhei com o Jonathan em um projeto de automação de trading e fiquei impressionado com a capacidade dele de adaptar soluções para o mercado financeiro."_  
+— **Maria Oliveira**, Desenvolvedora de Software
+
+---
+
+## 📬 Contato {#contato}
 
 Se quiser entrar em contato comigo, pode me encontrar nas seguintes plataformas:
 
