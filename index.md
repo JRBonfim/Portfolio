@@ -21,12 +21,14 @@ Descrição breve sobre o projeto. Exemplo: Um sistema que utiliza análise de g
 Descrição breve sobre o projeto. Exemplo: Este site é uma demonstração do meu portfólio de IA e automação.
 
 [Ver mais](#)
-## 📬 Contato  
+
+ ## 📬 Contato  
 
 Se quiser entrar em contato comigo, pode me encontrar nas seguintes plataformas:  
 
-📧 **E-mail:** [bonfim.milionario@gmail.com](mailto:seuemail@example.com)  
+📧 **E-mail:** [seuemail@example.com](mailto:seuemail@example.com)  
 💼 **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
 🐙 **GitHub:** [github.com/seunome](https://github.com/seunome)  
-📱 **WhatsApp:** [(21) 988204813](https://wa.me/seunumerodetelefone)  
+📱 **WhatsApp:** [(XX) 9XXXX-XXXX](https://wa.me/seunumerodetelefone)  
+
 
