@@ -3,7 +3,6 @@
 
 Seja bem-vindo ao meu portfólio!  
 
-Aqui você encontrará informações sobre meus projetos e experiências em programação e inteligência artificial.  
 ## Meus Projetos
 
 Aqui estão alguns dos projetos em que estou trabalhando:
@@ -22,3 +21,4 @@ Descrição breve sobre o projeto. Exemplo: Um sistema que utiliza análise de g
 Descrição breve sobre o projeto. Exemplo: Este site é uma demonstração do meu portfólio de IA e automação.
 
 [Ver mais](#)
+
