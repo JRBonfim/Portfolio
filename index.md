@@ -1,5 +1,5 @@
-# Portfólio  
+# Meu Portfólio 🚀  
 
-# Bem-vindo ao Meu Portfólio 🚀  
+Seja bem-vindo ao meu portfólio!  
 
-Aqui você encontrará meus projetos e experiências.  
+Aqui você encontrará informações sobre meus projetos e experiências em programação e inteligência artificial.  
