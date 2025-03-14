@@ -4,7 +4,7 @@
 Seja bem-vindo ao meu portfólio!
 ## 👋 Sobre Mim  
 
-Olá! Meu nome é [Seu Nome], sou apaixonado por tecnologia e estou iniciando minha jornada na programação. Atualmente, estou estudando **Inteligência Artificial e Automação**, com o objetivo de criar soluções inovadoras no mercado de criptomoedas.  
+Olá! Meu nome é [Jonathan Bonfim], sou apaixonado por tecnologia e estou iniciando minha jornada na programação. Atualmente, estou estudando **Inteligência Artificial e Automação**, com o objetivo de criar soluções inovadoras no mercado de criptomoedas.  
 
 💡 Gosto de aprender novas tecnologias e aplicar meus conhecimentos em projetos práticos. Meu foco principal está em **machine learning, análise de dados e automação de processos financeiros**.  
 
